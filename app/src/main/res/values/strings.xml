@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">exo-kotlin</string>
+    <string name="title_appli">Send your informations</string>
+    <string name="title_confirmation">Informations envoyées !</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_job">Job</string>
+    <string name="prompt_company">Company</string>
+    <string name="action_register">Register</string>
+    <string name="action_validate">Validate</string>
+    <string name="welcome">"Welcome !"</string>
+</resources>
